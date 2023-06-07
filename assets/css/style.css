@@ -20,49 +20,49 @@
   margin-left: 30px;
 }
 
-.about-img{
-    max-width: 100%;
-    height: auto;
+.about-img {
+  max-width: 100%;
+  height: auto;
 }
 
-.mini-video{
-    max-width: 100%;
-    height: 350px;
-    width: 450px;
+.mini-video {
+  max-width: 100%;
+  height: 350px;
+  width: 450px;
 }
 
-.why-us{
-    background-color: gray;
+.why-us {
+  background-color: gray;
 }
 
-.choose-yummy{
-    background-color: red;
-    border-radius: 20px;
-    padding: 20px;
+.choose-yummy {
+  background-color: red;
+  border-radius: 20px;
+  padding: 20px;
 }
 
-.icon-box{
-    border-radius: 20px;
-    background-color: aliceblue;
-    padding: 30px;
+.icon-box {
+  border-radius: 20px;
+  background-color: aliceblue;
+  padding: 30px;
 }
 
 .count {
-    background-attachment: fixed;
-    background-size: cover;
-    background-image: url("../css/images/count-img.jpg");
-    padding: 100px 0;
-  }
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("../css/images/count-img.jpg");
+  padding: 100px 0;
+}
 
-  .count .card{
-    background-attachment: fixed;
-    background-size: cover;
-    background-image: url("../css/images/count-img.jpg");
-  }
+.count .card {
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("../css/images/count-img.jpg");
+}
 
-  .count .card h2 {
-    font-size: 50px;
-    display: block;
-    color: rgb(255, 255, 255);
-    font-weight: 700;
-  }
+.count .card h2 {
+  font-size: 50px;
+  display: block;
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+}
