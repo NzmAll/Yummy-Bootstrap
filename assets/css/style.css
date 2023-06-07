@@ -67,6 +67,30 @@
   font-weight: 700;
 }
 
-.book-a-table{
-    background-color: gray;
+.book-a-table {
+  background-color: gray;
+}
+
+.footer {
+  background-color: black;
+}
+
+.footer .card {
+  background-color: black;
+}
+
+.footer .card h4 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.footer .card p {
+  color: rgb(255, 255, 255);
+}
+
+.footer .copyright {
+  text-align: center;
+  padding-top: 30px;
+  border-top: 1px solid rgb(0, 0, 0);
+  color: aliceblue;
 }
